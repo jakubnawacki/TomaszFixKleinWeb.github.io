@@ -1,0 +1,35 @@
+#portret {
+  justify-content: center;
+  margin-top: 100px;
+  max-height: max-content;
+  border-radius: 50px;
+}
+
+#firstnote {
+  margin-top: 100px;
+}
+.carousel-inner {
+  justify-content: center;
+  margin-top: 100px;
+}
+#grafik {
+  background-image: image("tło_grafik.jpg" cover);
+  opacity: 0.5;
+}
+
+#mapa_siemanko {
+  margin-bottom: 5px;
+  border-radius: 20px;
+  opacity: 0.7;
+}
+
+#mapa_enzym {
+  margin-bottom: 5px;
+  border-radius: 20px;
+  opacity: 0.7;
+}
+#mapa_5element {
+  margin-bottom: 5px;
+  border-radius: 20px;
+  opacity: 0.7;
+}
