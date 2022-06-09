@@ -1,8 +1,0 @@
-<div class="text-center mt-5 pt-5">
-          <i class="bi bi-youtube text-danger display-1"></i>
-          <h6 class="text-muted mt-4">Sprawdź mój wywiad</h6>
-          <h4 class="text-uppercase text-white">
-            <a href="https://www.youtube.com/watch?v=A0xgP0NyyzY&fbclid=IwAR2_FrMxBSTRt5n3Jy55wuK_BXbKLvc_K2zivUTQ2uXrd6eei2LMVGSK6Uw" class="text-white"
-              ><i class="bi bi-arrow-right"></i>youtube <i class="bi bi-arrow-left"></i
-            ></a>
-        
